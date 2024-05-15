@@ -12,5 +12,4 @@ Meu nome é **Verônica Castanheira**
 
 veronicabarbosabarbosa2021@gmail.com
 
-
 ![](https://media1.tenor.com/m/ogsH7Ailje8AAAAd/cat-funny-cat.gif)
