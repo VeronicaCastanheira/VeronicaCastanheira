@@ -2,7 +2,7 @@
 
 Meu nome é ´Verônica Castanheira`
 
-- Atualmente sou aluna do Alura @alurastartestudante
+- Atualmente sou aluna do [Alura] (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
@@ -12,6 +12,7 @@ Meu nome é ´Verônica Castanheira`
 
 veronicabarbosabarbosa2021@gmail.com
 
-  ![]
+
+![]
 
   
