@@ -1,6 +1,6 @@
 ### Olá, sejam bem vindos ao meu perfil
 
-Meu nome é ´Verônica Castanheira`
+Meu nome é **Verônica Castanheira**
 
 - Atualmente sou aluna do [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
